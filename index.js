@@ -44,10 +44,3 @@ function guestScorePlusThree() {
 }
 
 
-window.guestScorePlusOne= guestScorePlusOne;
-window.guestScorePlusTwo = guestScorePlusTwo;
-window.guestScorePlusThree = guestScorePlusThree;
-
-window.homeScorePlusOne = homeScorePlusOne;
-window.homeScorePlusTwo = homeScorePlusTwo;
-window.homeScorePlusThree = homeScorePlusThree;
